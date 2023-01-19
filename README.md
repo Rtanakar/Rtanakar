@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-EopHUbiDAuYHxQMz-hz8pIqscCtVrSP8-_F9LvZbpdpR19GgPn9BDR_6XV6TiPZiiIE&usqp=CAU)
+![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png)
 <h1 align="center">Hi 👋, I'm Ratnakar Mishra</h1>
 <h3 align="center">Full Stack Flutter Developer...</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
