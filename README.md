@@ -1,15 +1,15 @@
-![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png)
+<!-- ![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png) -->
 <h1 align="center">Hi 👋, I'm Ratnakar Mishra</h1>
-<h3 align="center">Full Stack Flutter Developer...</h3>
+<h3 align="center">Full Stack Developer...</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtanakar&label=Profile%20views&color=0e75b6&style=flat" alt="rtanakar" /> </p>
 
 - 🔭 I’m currently working on **social media app**
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **HTML, CSS, JS, React Js, Next js, Tailwind CSS**
 
-- 💬 Ask me about **FLutter, Dart, Firebase**
+- 💬 Ask me about **HTML, CSS, JS, React Js, Next js, Tailwind CSS**
 
 - 📫 How to reach me **ratnakarmishra623@gmail.com**
 
@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<!-- <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtanakar&show_icons=true&locale=en&layout=compact" alt="rtanakar" /></p>
 
