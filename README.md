@@ -1,15 +1,15 @@
 <!-- ![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png) -->
 <h1 align="center">Hi 👋, I'm Ratnakar Mishra</h1>
-<h3 align="center">Full Stack Developer...</h3>
+<h3 align="center">Full Stack MERN Developer...</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtanakar&label=Profile%20views&color=0e75b6&style=flat" alt="rtanakar" /> </p>
 
-- 🔭 I’m currently working on **social media app**
+- 🔭 I’m currently working on **Html CSS js Project**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, React Js, Next js, Tailwind CSS**
+- 🌱 I’m currently learning **MERN development**
 
-- 💬 Ask me about **HTML, CSS, JS, React Js, Next js, Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React Js**
 
 - 📫 How to reach me **ratnakarmishra623@gmail.com**
 
